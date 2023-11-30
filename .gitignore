@@ -1,0 +1,6 @@
+cluster/*
+data/*
+!data/*test.jsonl
+checkpoints/*
+tensorboard_runs/*
+**/__pycache__/*
